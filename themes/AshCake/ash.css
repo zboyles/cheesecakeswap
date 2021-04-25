@@ -1,0 +1,53 @@
+
+
+/* Banner image darkened background */
+.jjqHMu {
+    background-image: url('images/banner-ash.png');
+}
+
+
+/* Body darkened background */
+.hGVvLN {
+    background-image: url('images/bg-main-ash.png')
+}
+
+/* Card background */
+.bvBVge {
+    background: rgb(60 54 72 / 90%);
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+/* Card Fonts */
+/* Card Title/APR */
+.jqZEKr {
+    color: #f6eaed;
+}
+/* Card Fee/Multiplier/Liquidity Values/Rewards Values */
+.jqZycM {
+    color: #f6eaed;
+}
+/* Card Liquidity Title/Rewards Title */
+.crFoyf {
+    color: #f6eaed;
+}
+/* Fee Alert */
+.tCCHI {
+    color: #f6eaed;
+    border: 2px solid #f6eaed;
+}
+.tCCHI svg {
+    fill: #f6eaed;
+}
+/* Reward Alert */
+.jqTxQZ {
+    color: rgb(194 103 102);
+    border: 2.5px solid rgb(194 103 102);
+}
+
+
+
+
+
+
+
