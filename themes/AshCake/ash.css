@@ -4,11 +4,21 @@
 .jjqHMu {
     background-image: url('images/banner-ash.png');
 }
-
+/* Class alternates so the following also works */
+body > div > div > div > div > div:nth-child(1) {
+    /* background-image: url(https://raw.githubusercontent.com/zboyles/cheesecakeswap/main/themes/AshCake/images/banner-ash.png); */
+    background-image: url('images/banner-ash.png');
+}
 
 /* Body darkened background */
 .hGVvLN {
+    /* background-image: url('https://raw.githubusercontent.com/zboyles/cheesecakeswap/main/themes/AshCake/images/bg-main-ash.png'); */
     background-image: url('images/bg-main-ash.png')
+}
+
+/* Filter Font */
+#root > div > div > div > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) div {
+    color: #f6eaed;
 }
 
 /* Card background */
@@ -20,6 +30,7 @@
 
 /* Card Fonts */
 /* Card Title/APR */
+/* Note: farms page used div.sc-gsTCUz.jqZycM */
 .jqZEKr {
     color: #f6eaed;
 }

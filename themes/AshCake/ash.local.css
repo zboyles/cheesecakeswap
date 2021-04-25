@@ -1,0 +1,51 @@
+
+/* Banner image darkened background */
+body > div > div > div > div > div:nth-child(1) {
+    background-image: url(https://raw.githubusercontent.com/zboyles/cheesecakeswap/main/themes/AshCake/images/banner-ash.png);
+}
+
+/* Body darkened background */
+/* .hGVvLN, */
+#root > div > div > div > div:nth-child(2) {
+    background-image: url('https://raw.githubusercontent.com/zboyles/cheesecakeswap/main/themes/AshCake/images/bg-main-ash.png');
+}
+
+/* Filter Font */
+#root > div > div > div > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) div {
+    color: #f6eaed;
+}
+
+/* Card background */
+/* div.bvBVge, */
+#root > div > div > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div {
+    background: rgb(60 54 72 / 90%);
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+/* Card Fonts */
+/* .jqZEKr, .jqZycM, .crFoyf, .tCCHI, .tCCHI svg,
+.sc-gsTCUz {
+    color: #f6eaed;
+    fill: #f6eaed;
+} */
+#root > div > div > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) div {
+    color: #f6eaed;
+}
+/* Fee Alert */
+/* #root > div > div > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) div > div:nth-child(2) > div > div > div:nth-child(3) {
+    border: 2px solid #f6eaed;
+} */
+#root > div > div > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) div > div:nth-child(2) > div > div > div > div:nth-child(3) > div:nth-child(1) {
+    color: rgb(49, 208, 170);
+    border-color: rgb(49, 208, 170);
+}
+/* Reward Alert */
+/* .jqTxQZ {
+    color: rgb(194 103 102);
+    border-color: rgb(194 103 102);
+} */
+#root > div > div > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) div > div:nth-child(2) > div > div > div > div:nth-child(3) > div:nth-child(2) {
+    color: rgb(194 103 102);
+    border-color: rgb(194 103 102);
+}
